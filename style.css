@@ -1,0 +1,43 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+ :root{
+    font-family: "poppins" sans-serif;
+ }
+header{
+    background: url(./images/bg-hero-desktop.svg)
+    hsl(189, 100%, 97%) no-repeat;
+}
+/* header section */
+nav img{
+    width: 10rem;
+}
+
+nav button{
+    width: 10rem;
+}
+
+.hero-content h2 {
+    font-family: "poppins";
+    font-weight: bold;
+}
+
+.section-4 button{
+    margin-left: 3rem;
+}
+
+.section-4{
+    margin-left: 20rem;
+    position: relative;
+    top: 100px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: hsl(192, 100%, 9%);
+    margin-top: 50px;
+}
+
+footer p{
+    color: white;
+}
+
